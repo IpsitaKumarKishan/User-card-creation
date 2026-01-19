@@ -1,6 +1,12 @@
 # User Card Creation
 
 A simple web application that allows users to generate and manage user profile cards.
+## 🔗 Project on LinkedIn
+
+I shared this project on LinkedIn as part of my internship and placement preparation journey:
+
+👉 https://www.linkedin.com/posts/ipsit-kishan_internship-placements-fullstackdevelopment-activity-7419092485286621184-Y79K
+
 
 ## 🚀 Overview
 
